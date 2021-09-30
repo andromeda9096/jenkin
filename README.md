@@ -3,8 +3,8 @@
 ### Install
 
 ```
-$ curl -sSL https://raw.githubusercontent.com/andromeda9096/jenkin/main/docker-compose.yaml > docker-compose.yml
-$ docker-compose up -d
+curl -sSL https://raw.githubusercontent.com/andromeda9096/jenkin/main/docker-compose.yaml > docker-compose.yml
+docker-compose up -d
 
 ```
 
