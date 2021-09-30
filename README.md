@@ -5,12 +5,11 @@
 ```
 curl -sSL https://raw.githubusercontent.com/andromeda9096/jenkin/main/docker-compose.yaml > docker-compose.yml
 docker-compose up -d
-
 ```
 
 ### Login web UI
 
-http://ip_host:8080
+http://ip_host:8181
 
 - password :
 ```
