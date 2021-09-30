@@ -10,7 +10,7 @@ services:
     labels:
       com.example.description: "Jenkins-Server by andromeda9096"
     ports: 
-      - "8080:8080"
+      - "8181:8080"
       - "50000:50000"
     networks:
       jenkins-net:
